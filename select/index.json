@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "OMAE（feat. 百足、韻マン）",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-21T13:59:38.005000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OMAE (feat. Mukade & Inman)",
+      "artist": "JAKEN",
+      "has_synced": true,
+      "path": "select/01_OMAE_(feat._Mukade_&_Inman)_JAKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OMAE (feat. Mukade & Inman)",
+      "artist": "Jaken",
+      "has_synced": false,
+      "path": "select/02_OMAE_(feat._Mukade_&_Inman)_Jaken.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OMAE (feat. Mukade & Inman)",
+      "artist": "JAKEN, MUKADE, INMAN",
+      "has_synced": true,
+      "path": "select/03_OMAE_(feat._Mukade_&_Inman)_JAKEN,_MUKADE,_INMAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OMAE (feat. 百足 & 韻マン)",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_OMAE_(feat._百足_&_韻マン)_JAKEN.txt"
+    }
+  ]
+}
